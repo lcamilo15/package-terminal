@@ -10,7 +10,7 @@
     "dependencies": {
         "q": "1.0.1",
         "lodash": "2.4.1",
-        "shux": "0.2.1",
+        "shux": "git@github.com:lcamilo15/shux.git#1.0.1",
         "sh.js": "1.1.1"
     },
     "packageDependencies": {
